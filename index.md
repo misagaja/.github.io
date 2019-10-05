@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <center><h1 ><span id="naslov">ovde bi trebalo da dodje</span></h1><br>
 
 <head>
